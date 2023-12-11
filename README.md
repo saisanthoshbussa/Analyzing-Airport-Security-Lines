@@ -48,4 +48,4 @@ Proactive strategies and advanced technologies can substantially enhance airport
 2. **Input Parameters**: Modify arrival and departure rates, buffer sizes, and server counts.
 3. **Analysis**: Evaluate output metrics to understand parameter impact on system performance.
    
-#### ----------------------------------- Check the Report.pdf file for more details of simulation and the results -------------------------------
+#### Check the Report.pdf file for more details of simulation and the results 
