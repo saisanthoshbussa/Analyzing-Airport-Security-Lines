@@ -10,6 +10,13 @@ Ensuring seamless passenger flow through airport security lines is crucial for c
 
 Conducted using a C++ queuing system model, the simulation represents both single and multiple security lines. Modifications to arrival and departure rates, buffer sizes, and server counts systematically evaluated their impact on performance metrics.
 
+## Implemented Models
+
+- **Single server with infinite buffer capacity**
+- **Single server with finite buffer capacity**
+- **Multiple servers with infinite buffer capacity**
+- **Multiple servers with finite buffer capacity**
+
 ## Impact Analysis
 
 ### Arrival and Departure Rates
@@ -40,4 +47,5 @@ Proactive strategies and advanced technologies can substantially enhance airport
 1. **Compile the Code**: Use a C++ compiler to build the simulation program.
 2. **Input Parameters**: Modify arrival and departure rates, buffer sizes, and server counts.
 3. **Analysis**: Evaluate output metrics to understand parameter impact on system performance.
+   
 
